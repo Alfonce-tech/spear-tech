@@ -216,7 +216,7 @@ header {
     }
 }
 /* Ensure content-box covers full width & height */
-.content-box {
+.carousel-container {
     position: relative;
     width: 100%;
     height: 80vh; /* Adjust as needed */
