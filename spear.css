@@ -64,10 +64,10 @@
 header {
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: self-start;
     background: goldenrod;
     padding: 15px 30px; /* Increased padding */
-    position: relative;
+    position: fixed;
     width: 96%;
     top: 0;
     z-index: 1000;
